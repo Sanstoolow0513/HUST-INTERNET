@@ -1,0 +1,5 @@
+﻿  MyClient.cpp
+C:\Users\30210\source\repos\socket\MyClient.cpp(32,6): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\30210\source\repos\socket\MyClient.cpp(99,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\30210\source\repos\socket\MyClient.cpp(65,6): warning C4101: “addrLen”: 未引用的局部变量
+  socket.vcxproj -> C:\Users\30210\source\repos\socket\x64\Debug\socket.exe

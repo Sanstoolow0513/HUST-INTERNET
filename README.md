@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+# 华中科技大学计算机科学与技术学院计算机网络实验 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+1.使用Markmap生成思维导图
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+2.blablabla

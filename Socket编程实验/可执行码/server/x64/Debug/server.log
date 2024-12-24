@@ -1,0 +1,7 @@
+﻿  Myserver.cpp
+C:\Users\Administrator\Desktop\net_exp\soccket\server\Myserver.cpp(97,54): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\net_exp\soccket\server\Myserver.cpp(139,53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\net_exp\soccket\server\Myserver.cpp(144,42): warning C4244: “参数”: 从“std::streamsize”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\net_exp\soccket\server\Myserver.cpp(148,42): warning C4244: “参数”: 从“std::streamsize”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\net_exp\soccket\server\Myserver.cpp(188,6): warning C4326: “main”的返回类型应为“int”而非“void”
+  server.vcxproj -> C:\Users\Administrator\Desktop\net_exp\soccket\socket\x64\Debug\server.exe
